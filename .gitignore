@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+*.log
+
+# VS Code
+.vscode/
+
+# pnpm
+.pnpm-debug.log
+.pnpm-store/
+
+# Coverage reports
+coverage/
